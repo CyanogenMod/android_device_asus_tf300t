@@ -12,6 +12,7 @@ PRODUCT_BRAND := asus
 PRODUCT_DEVICE := tf300t
 PRODUCT_MODEL := Transformer Pad TF300T
 PRODUCT_MANUFACTURER := asus
+RO.SF.LCD_DENSITY := 160
 PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=EeePad BUILD_FINGERPRINT=asus/WW_epad/EeePad:4.0.3/IML74K/WW_epad-9.4.3.29-20120511:user/release-keys PRIVATE_BUILD_DESC="WW_epad-user 4.0.3 IML74K WW_epad-9.4.3.29-20120511 release-keys"
 
 # Release name and versioning
